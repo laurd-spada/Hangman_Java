@@ -1,2 +1,5 @@
-package interfaces;public interface StartGame {
+package interfaces;
+
+public interface StartGame{
+    public void gameIntro();
 }

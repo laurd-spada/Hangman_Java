@@ -1,5 +1,8 @@
+import utility.Body;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Body body = new Body();
+        body.startHangman();
     }
 }
